@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7355ff8-3faf-4e81-ad5b-f43adb8d22b4" name="Default" comment="" />
+    <list default="true" id="a7355ff8-3faf-4e81-ad5b-f43adb8d22b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/Arzamath_17th.php" afterPath="$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/Arzamath_17th.php" />
+    </list>
     <ignored path="wpplugin.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Arzamath_17th.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Arzamath_17th.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/Arzamath_17th.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="0" selection-start="2703" selection-end="2703" vertical-scroll-proportion="-9.888889" vertical-offset="1299" max-vertical-offset="2592">
+            <state line="132" column="6" selection-start="3536" selection-end="3536" vertical-scroll-proportion="0.9390863" vertical-offset="1677" max-vertical-offset="2340">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-type-template_metabox.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="post-type-template_metabox.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/templates/post-type-template_metabox.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="57" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.71972317" vertical-offset="268" max-vertical-offset="846">
+            <state line="38" column="57" selection-start="1589" selection-end="1589" vertical-scroll-proportion="-15.407408" vertical-offset="268" max-vertical-offset="846">
               <folding />
             </state>
           </provider>
@@ -54,9 +56,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/Arzamath_17th.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/js/my_query.js" />
         <option value="$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/templates/post-type-template_metabox.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/Arzamath_17th.php" />
       </list>
     </option>
   </component>
@@ -339,16 +341,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/Arzamath_17th.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/templates/post-type-template_metabox.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="0" selection-start="2703" selection-end="2703" vertical-scroll-proportion="-9.888889" vertical-offset="1299" max-vertical-offset="2592">
+        <state line="38" column="57" selection-start="1589" selection-end="1589" vertical-scroll-proportion="-15.407408" vertical-offset="268" max-vertical-offset="846">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/templates/post-type-template_metabox.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/Arzamath_17th/Arzamath_17th.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="57" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.71972317" vertical-offset="268" max-vertical-offset="846">
+        <state line="132" column="6" selection-start="3536" selection-end="3536" vertical-scroll-proportion="0.9390863" vertical-offset="1677" max-vertical-offset="2340">
           <folding />
         </state>
       </provider>
